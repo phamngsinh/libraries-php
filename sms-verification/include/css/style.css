@@ -1,0 +1,41 @@
+.alt {
+  color: #666;
+  font-style: italic;
+}
+
+a.y_pagination {
+	border: #e1ebfb 1px solid;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-weight: normal;
+	font-size: 1.2em;
+	background: #eaeaea;
+	margin-bottom: 7px;
+	color: #666;
+	text-decoration: none
+}
+
+/*
+.contentBox {border-collapse:collapse; border: #cccccc 0px solid;}
+.greyBox {border-collapse:collapse; background: #f5f5f5; border: #b5b5b5 1px solid;}
+.yellowBox {border-collapse:collapse; background: #fffad4; border: #ecdf64 1px solid;}
+.blueBox {border-collapse:collapse; background: #ecf1fb; border: #cce1ff 1px solid;}
+.facebookBox {border-collapse:collapse; background: #f7f7f7; border: #cccccc 1px solid;}
+.lblueBox {border-collapse:collapse; background: #eaf4fd; border: #cce1ff 1px solid;}
+
+A {	color: #0065ce;text-decoration: none}
+A:hover {color: #0065ce;text-decoration: underline;}
+
+a.current {padding:5px; background-color:#dddddd; color:black;}
+a.current:hover {padding:5px;}
+a.navig {margin-right:15px;}
+
+.add {padding-left: 20px;background: transparent url(../graph/add.png) no-repeat center left;}
+.cancel {padding-left: 20px;background: transparent url(../graph/cancel.png) no-repeat center left;}
+.facebook {padding-left: 20px;background: transparent url(../graph/facebook16.png) no-repeat center left;}
+.update {padding-left: 20px;background: transparent url(../graph/update.png) no-repeat center left;}
+.logout {padding-left: 20px;background: transparent url(../graph/cancel.png) no-repeat center left;}
+.comment {padding-left: 18px;background: transparent url(../graph/comment.png) no-repeat center left;}
+.comments {padding-left: 20px;background: transparent url(../graph/comments.png) no-repeat center left;}
+.hide {padding-left: 18px;background: transparent url(../graph/hide.png) no-repeat center left;}
+*/
